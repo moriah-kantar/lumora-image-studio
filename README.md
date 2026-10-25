@@ -1,5 +1,9 @@
 # Lumora
 
+**Author:** Moriah Kantar
+
+**Completed:** October 2026
+
 **An image scaling and editing studio built for a flexible, streamlined creative workflow.**
 
 Lumora is a web application for resizing images, fine-tuning their appearance, comparing edits, saving reusable presets, and exporting images in different formats. The project focuses on giving users practical image controls through a clean, approachable interface.
