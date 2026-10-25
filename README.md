@@ -39,31 +39,31 @@ Lumora is a browser-based application for resizing images, fine-tuning their app
 
 Upload an image from your device or try one of Lumora's sample images.
 
-![Lumora image upload screen](screenshots/lumora-home.png)
+![Lumora image upload screen](Screenshots/lumora-home.png)
 
 ### 2. Interactive Image Editor
 
 Compare original and edited images with the before-and-after slider.
 
-![Lumora image editing workspace](screenshots/lumora-editor.png)
+![Lumora image editing workspace](Screenshots/lumora-editor.png)
 
 ### 3. Creative Presets
 
 Explore and apply image looks, including cinematic, portrait, and black-and-white presets.
 
-![Lumora adjustment presets](screenshots/lumora-presets.png)
+![Lumora adjustment presets](Screenshots/lumora-presets.png)
 
 ### 4. Advanced Adjustments
 
 Refine tone, detail, sharpness, and image clarity using individual controls.
 
-![Lumora image adjustment controls](screenshots/lumora-adjustments.png)
+![Lumora image adjustment controls](Screenshots/lumora-adjustments.png)
 
 ### 5. Export and Compression
 
 Choose an output format and adjust compression before downloading your image.
 
-![Lumora export options](screenshots/lumora-export.png)
+![Lumora export options](Screenshots/lumora-export.png)
 
 ---
 
