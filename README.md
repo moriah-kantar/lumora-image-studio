@@ -1,4 +1,9 @@
 # Lumora
+### 🚀 Live Application
+
+[![Launch Lumora](https://img.shields.io/badge/Launch-Lumora_Image_Studio-blue?style=for-the-badge)](https://moriah-kantar.github.io/lumora-image-studio/)
+
+Experience Lumora directly in your browser. Upload images, adjust their appearance, resize, apply presets, and export your creations.
 
 **Author:** Moriah Kantar
 
