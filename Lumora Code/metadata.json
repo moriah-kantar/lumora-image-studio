@@ -1,0 +1,6 @@
+{
+  "name": "Lumora",
+  "description": "Upload, scale, upscale quality, save custom presets, adjust compression, and export images in WebP, JPEG, PNG, AVIF, BMP, TIFF, or ICO with real-time comparison and light/dark theme support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
