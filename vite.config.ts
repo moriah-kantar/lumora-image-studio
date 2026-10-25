@@ -5,6 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/lumora-image-studio/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
