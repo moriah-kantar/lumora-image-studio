@@ -1,7 +1,7 @@
 # Lumora
 
 **Author:** Moriah Kantar  
-**Launched:** October 2026
+**Launched:** September 2026
 
 **An image scaling and editing studio built for a flexible, streamlined creative workflow.**
 
